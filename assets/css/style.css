@@ -75,7 +75,7 @@ a{
 .slide-btn:hover{
     background-color: var(--third-color);
     transition: 0.4s;
-    transform: ;
+    /* transform: ; */
 }
 
 /* .overlay{
@@ -317,10 +317,8 @@ a{
 }
 .about .about-main .about-image .years-design h6{
     color: var(--sub-color);
-    font-size: 17px;
+    font-size: 18px;
 }
-
- 
 
 
 
